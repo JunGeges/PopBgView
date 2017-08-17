@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PopBgView">
+        <attr name="round_rect_bg_color" format="color"/>
+        <attr name="round_rect_degree" format="dimension"/>
+        <attr name="triangle_side_length" format="dimension"/>
+        <attr name="triangle_location" format="enum">
+            <enum name="top" value="0"/>
+            <enum name="right" value="1"/>
+            <enum name="bottom" value="2"/>
+            <enum name="left" value="3"/>
+        </attr>
+    </declare-styleable>
+</resources>
