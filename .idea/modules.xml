@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/PopBgView.iml" filepath="$PROJECT_DIR$/PopBgView.iml" />
+      <module fileurl="file://D:\PopBgView\PopBgView.iml" filepath="D:\PopBgView\PopBgView.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://D:\PopBgView\app\app.iml" filepath="D:\PopBgView\app\app.iml" />
     </modules>
   </component>
 </project>
